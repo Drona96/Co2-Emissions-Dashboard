@@ -1,0 +1,12 @@
+I used the CO2 Emissions data in the YouTube video as reference and created visualizations according to my own ideas
+
+DATASET INFORMATION
+
+This is a dataset containing CO2 emisssion data for all countries from 1750 to 2020. Each row contains information about the country, the year, the population, and the information about the temperature change from co2,co2 growth percentage. The dataset contains 50598 rows and 79 columns.
+
+Summary:
+
+1. From scatter plot used to visualize the relationship between two variables, such as Co2 and gdp_per_capita , we observe that when gdp per capita is 1000 to 3000 the level of co2 is between o to 50 in initial years but it increased in later years.
+2. I used Line chart to create to visualize the trend of Co2 emission by continent to see if there are any changes in emissions. There is an increase in  trend and seasonality.
+3. The table represents the tabular data of co2 emission in various countires across the world yearly from 1750 to 2020.
+4. The bargrpah depicts the information about the co2 emissions from three sources coal, gas, oil by 7 continents. By using the slider we can see the amount of emissions across 7 continents.As we can see co2 emission using coal is very high in Europe in initial years and in between from 1940 North America was high, but in 2020 Asia is highest in co2 emissions using coal ,gas, oil.
